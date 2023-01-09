@@ -1,0 +1,10 @@
+.category-option {
+  cursor: pointer;
+  padding-left: 0;
+
+  font-family: Roboto;
+
+  font-size: 16px;
+  color: #64748b;
+  outline: none;
+}

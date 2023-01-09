@@ -1,0 +1,26 @@
+.rating-button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+  font-family: Roboto;
+
+  display: flex;
+  align-items: center;
+  outline: none;
+}
+
+.rating-image {
+  width: 150px;
+}
+
+.and-above-text {
+  margin-left: 12px;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 15px;
+  color: #64748b;
+  font-family: Roboto;
+}
